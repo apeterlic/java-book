@@ -1,4 +1,6 @@
-package beenary.dev.objects;
+package beenary.dev.chapter2;
+
+import beenary.dev.chapter2.Cat;
 
 public class CatManagement {
 
