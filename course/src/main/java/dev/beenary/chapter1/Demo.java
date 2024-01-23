@@ -1,4 +1,4 @@
-package beenary.dev.chapter1;
+package dev.beenary.chapter1;
 
 public class Demo {
 

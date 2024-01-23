@@ -7,8 +7,6 @@
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 d
 4exercise/src/main/java/beenary/dev/webshop/Item.java,7/5/750d1ee069f71358f40a20fd9d873cecde46f451
-c
-3course/src/main/java/beenary/dev/chapter1/Demo.java,0/0/00edd9c70540fa344dccad0fd8fe4c44d04659d3
 l
 <course/src/main/java/beenary/dev/chapter2/CatManagement.java,3/5/355f531ada95daa4ea811171b0e4be1a100bb2b4
 b
