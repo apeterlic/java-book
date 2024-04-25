@@ -1,4 +1,4 @@
-package dev.beenary.lesson7;
+package dev.beenary.lesson7.exercise1;
 
 /**
  * Your task is to create a menu. Create a program that takes input from the user. When the user enters the “X”, the

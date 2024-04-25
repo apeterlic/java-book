@@ -1,4 +1,4 @@
-package dev.beenary.lesson7;
+package dev.beenary.lesson7.exercise2;
 
 import java.util.Random;
 import java.util.Scanner;
