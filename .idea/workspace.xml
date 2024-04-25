@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5db3cb3-d38b-4b6f-b97c-acb88cdff10d" name="Changes" comment="" />
+    <list default="true" id="c5db3cb3-d38b-4b6f-b97c-acb88cdff10d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/dev/beenary/lesson12/exercise1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/dev/beenary/lesson12/exercise1/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/dev/beenary/lesson12/exercise1/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/dev/beenary/lesson12/exercise1/VehicleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/dev/beenary/lesson12/exercise1/VehicleType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/src/main/java/dev/beenary/lesson6/exercise1/VehicleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/dev/beenary/lesson6/exercise1/VehicleDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,11 +70,11 @@
       <recent name="$PROJECT_DIR$/directory" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dev.beenary.lesson12.exercise1" />
       <recent name="dev.beenary.lesson9.exercise1" />
       <recent name="dev.beenary.lesson6.exercise2" />
       <recent name="beenary.dev" />
       <recent name="dev.beenary.chapter14" />
-      <recent name="dev.beenary.chapter13.anonymous" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ContinueDemo">
@@ -168,7 +176,7 @@
       <workItem from="1713260946689" duration="142000" />
       <workItem from="1713261207448" duration="959000" />
       <workItem from="1713782138084" duration="13091000" />
-      <workItem from="1713967994242" duration="21740000" />
+      <workItem from="1713967994242" duration="22633000" />
     </task>
     <servers />
   </component>
